@@ -1,3 +1,4 @@
 {
-"python_interpreter": "",
+  "python_interpreter": "$HOME/anaconda3/bin/python",
+  "python_virtualenv": "$HOME/anaconda3/bin/python"
 }
