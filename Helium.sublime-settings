@@ -1,3 +1,4 @@
 {
-   "jupyter_path": "$HOME/Library/Jupyter/kernels/condaenv"
+   "jupyter_path": "$HOME/Library/Jupyter/kernels/condaenv",
+   "complete": false
 }
