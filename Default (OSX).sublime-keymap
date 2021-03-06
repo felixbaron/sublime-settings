@@ -1,3 +1,4 @@
 [
     { "keys": ["alt++"], "command": "toggle_terminus_panel" },
+	{ "keys": ["super+l"], "command": "toggle_comment", "args": { "block": false } },
 ]
