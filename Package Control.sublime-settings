@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"debug": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"AutoPEP8",
+		"Dracula Color Scheme",
+		"Git",
+		"GitGutter",
+		"Helium",
+		"Jedi - Python autocompletion",
+		"MarkdownPreview",
+		"Material Theme",
+		"NeoVintageous",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-json",
+		"Terminus",
+		"View In Browser",
+		"Zen Tabs"
+	]
+}
