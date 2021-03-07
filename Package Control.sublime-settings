@@ -12,6 +12,7 @@
 		"Git",
 		"GitGutter",
 		"Helium",
+		"isort",
 		"Jedi - Python autocompletion",
 		"MarkdownPreview",
 		"Material Theme",
